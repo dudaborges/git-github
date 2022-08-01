@@ -57,3 +57,8 @@ Para voltar para a branch principal: git checkout main
 Para voltar para alguma branch: git checkout nomeDaBrach
 
 Para fazer a merge: git merge novo-botao (dentro da main/master)
+
+Para fazer o clone: git clone link
+
+Para fazer o pull: cd nomeDapasta (para entrar dentro da pasta)
+git pull
